@@ -196,3 +196,11 @@ body {
   font-size: 15px;
   color: #b18be8;
 }
+.idk-img {
+  width: 110px;
+  width: 110px;
+  position: absolute;
+  top: 210px;
+  left: 740px;
+  display: none;
+}
